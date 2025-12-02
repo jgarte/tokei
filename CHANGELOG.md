@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [14.0.0](https://github.com/jgarte/tokei/compare/v13.0.0...v14.0.0) - 2025-12-02
+
+### Other
+
+- Added Hare Program Language
+- Update clap-cargo from 0.13 to 0.18 ([#1298](https://github.com/jgarte/tokei/pull/1298))
+
 ## [13.0.0-alpha.9](https://github.com/XAMPPRocky/tokei/compare/v13.0.0-alpha.8...v13.0.0-alpha.9) - 2025-07-21
 
 ### Other
